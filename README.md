@@ -1,6 +1,6 @@
-# AppleScript to use Ghostty in Alfred
+# AppleScript to use Kaku in Alfred
 
-This is a simple AppleScript to use Ghostty in Alfred. It will open the Promt from Alfred in an existing Ghostty window or create a new one if there is none.
+This is a simple AppleScript to use Kaku in Alfred. It will open the Promt from Alfred in an existing Kaku window or create a new one if there is none.
 
 ## Installation
 
